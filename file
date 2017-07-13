@@ -1,0 +1,22 @@
+
+openstack-cinder         - ok 11.0.0.0b2
+openstack-ironic	  - ok 8.0.1 rpm-master
+openstack-neutron-lbaas   
+openstack-neutron-vpnaas
+openstack-octavia
+openstack-sahara
+openstack-manila
+openstack-ironic-inspector
+openstack-ironic-python-agent
+openstack-tripleo-ui	- ok  7.1.0 rpm-master
+openstack-mistral	- ok   rpm-master
+openstack-magnum	- ok master rpm-master
+
+python-ironic-lib      - ok 2.8.0 rpm-master
+python-keystoneclient  - ok 3.11.0 rpm-master
+python-tripleoclient   -  ok 7.1.0 rpm-master 
+python-openstackclient -  ok 3.11.0 - rpm-master
+python-pankoclient	- ok
+python-oslo-middleware - ok 3.29.2 - rpm-master
+python-networking-bgpvpn - ok rpm-master
+python-networking-fujitsu - ok rpm-master
